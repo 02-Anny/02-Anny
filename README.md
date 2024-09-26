@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi,
+- 🔭 I’m currently working on Alura
+- 😄 Pronouns: she/her
 
 <!--
 **02-Anny/02-Anny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
